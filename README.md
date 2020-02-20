@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning rails from sites like:
 
-Things you may want to cover:
+https://guides.rubyonrails.org/getting_started.html
 
-* Ruby version
+https://www.learnenough.com/ruby-on-rails-4th-edition-tutorial/beginning
 
-* System dependencies
+http://tutorials.jumpstartlab.com/projects/blogger.html
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Primarily using Cloud 9 via AWS
